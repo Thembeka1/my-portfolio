@@ -1,3 +1,9 @@
+h1{
+    background-color: rgb(236, 187, 128);
+    text-align: center;
+    font-style: italic;
+    padding: 150px;
+}
 .nav{
     background-color: rgb(244, 219, 188);
     padding: 20px;
