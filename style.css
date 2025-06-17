@@ -1,5 +1,7 @@
-
-select{
-    property: value
-
+h1{
+    background-color: rgb(231, 204, 171);
+    text-decoration: dotted;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
 }
