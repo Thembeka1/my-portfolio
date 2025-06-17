@@ -1,3 +1,7 @@
-select{
-    property: value;
+img{
+  width: 350px;
+  height: 150px;
+display: inline-block;
+margin: 60px;
+background-color: rgb(239, 201, 156);
 }
