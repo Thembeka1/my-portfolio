@@ -1,3 +1,4 @@
+
 h2{
     text-align: center;
     font-style: italic;
@@ -6,3 +7,24 @@ p{
     background-color: rgb(240, 208, 166);
     padding: 100px;
 }
+
+
+h1{
+    background-color: rgb(248, 207, 144);
+    padding: 150px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+p{
+    background-color: blanchedalmond;
+    font-style: x-large;
+    padding: 50px;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+}
+
+
