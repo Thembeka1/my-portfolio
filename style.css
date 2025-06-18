@@ -2,6 +2,21 @@
 select{
   property: value;
 }
+nav{ background-color: rgb(238, 171, 121);
+padding: 20px;}
+ 
+#Portfolio{
+  margin-right: 750px;
+}
+      #About{
+        margin-right: 100px;
+      }
+        #Projects{
+          margin-right: 100px;
+        }
+        #Contact{
+          margin-right: 100px;
+        }
 
 h6{
   background-color: rgb(199, 176, 176);
