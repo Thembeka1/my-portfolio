@@ -3,19 +3,25 @@ select{
   property: value;
 }
 nav{ background-color: rgb(238, 171, 121);
-padding: 20px;}
+padding: 20px;
+text-decoration: none;
+color: rgb(58, 22, 202);}
  
 #Portfolio{
   margin-right: 750px;
+  text-decoration: none;
 }
       #About{
         margin-right: 100px;
+        text-decoration: none;
       }
         #Projects{
           margin-right: 100px;
+          text-decoration: none;
         }
         #Contact{
           margin-right: 100px;
+          text-decoration: none;
         }
 
 h6{
@@ -26,8 +32,9 @@ h6{
 
 
 h4{
-  background-color: rgb(224, 149, 57);
-  padding: 30px;
+  background-color: rgb(242, 183, 116);
+  padding: 18px;
+  text-decoration: none;
 }
 
 
@@ -36,7 +43,7 @@ img{
   height: 150px;
 display: inline-block;
 margin: 60px;
-background-color: rgb(239, 201, 156);
+background-color: rgb(26, 25, 25);
 }
 
 h2{
