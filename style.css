@@ -1,4 +1,11 @@
 
+h6{
+  background-color: rgb(199, 176, 176);
+  padding: 30px;
+  text-align: center;
+}
+
+
 h4{
   background-color: rgb(224, 149, 57);
   padding: 30px;
@@ -39,5 +46,6 @@ h2{
     text-align: center;
     font-style: italic;
 }
+
 
 
