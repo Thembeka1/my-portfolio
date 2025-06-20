@@ -1,10 +1,25 @@
-p{
-    background-color: blanchedalmond;
-    font-style: x-large;
-    padding: 50px;
+.nav{
+    background-color: rgb(244, 219, 188);
+    padding: 20px;
 }
-h2{
-    text-align: center;
-    font-style: italic;
+
+nav a{
+    text-decoration: none;
+}
+
+#Portfolio{
+    padding: 30px;
+}
+
+#About{
+    margin-left: 750px;
+}
+
+#Projects{
+    margin-left: 100px;
+}
+
+#Contact{
+    margin-left: 100px;
 }
 
