@@ -1,25 +1,9 @@
 
-.nav{
-    background-color: rgb(244, 219, 188);
-    padding: 20px;
+h1{
+    background-color: rgb(248, 207, 144);
+    padding: 150px;
+    text-align: center;
+    font-style: italic;
 }
-
-nav a{
-    text-decoration: none;
-}
-
-#Portfolio{
-    padding: 30px;
-}
-
-#About{
-    margin-left: 750px;
-}
-
-#Projects{
-    margin-left: 100px;
-}
-
-
 
 
